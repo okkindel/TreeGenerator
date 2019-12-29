@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+canvas {
+  background: white;
+  position: absolute;
+}
+
+.generate-tree-button {
+  transform: translateX(-50%);
+  font-family: "Helvetica";
+  border-radius: 20px;
+  padding: 20px 30px;
+  position: absolute;
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+  outline: none;
+  border: none;
+  bottom: 5%;
+  left: 50%;
+}
